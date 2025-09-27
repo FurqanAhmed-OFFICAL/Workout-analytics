@@ -14,7 +14,6 @@ The goal is to help users filter and choose workout routines based on **equipmen
   *(SQL transformations applied: removed duplicates, handled nulls, standardized categories, created SQL views for reporting.)*
 
 - **Power BI Dashboard (.pbix)**  
-  [program_chooser pbix file](Data/program_chooser.pbix)  
-  *(Open in Power BI Desktop to explore the dashboard.)*
+[`program_chooser.pbix`](Data/program_chooser.pbix)
 
 ---
