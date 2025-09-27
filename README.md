@@ -13,6 +13,7 @@ This repository contains a comprehensive business intelligence solution built wi
 - **Source**: [Kaggle - 600K+ Fitness Exercise & Workout Program Dataset](https://www.kaggle.com/datasets/adnanelouardi/600k-fitness-exercise-and-workout-program-dataset)
 - **Size**: ~600,000 records
 - **Content**: Workout programs, exercises, difficulty levels, equipment types, session durations
+- **Data Documentation**: See [Data/Readme.md](Data/Readme.md) for detailed dataset information and download instructions
 
 ## Tech Stack
 
@@ -52,7 +53,7 @@ This repository contains a comprehensive business intelligence solution built wi
    ```
 
 3. **Data Setup**
-   - Download the dataset from the Kaggle link above
+   - Download the dataset from the Kaggle link above or follow instructions in [Data/Readme.md](Data/Readme.md)
    - Set up PostgreSQL database and import the dataset
    - Import data using the provided Power Query scripts
    - Refresh data model in Power BI
