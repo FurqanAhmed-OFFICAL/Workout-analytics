@@ -10,7 +10,7 @@ The goal is to help users filter and choose workout routines based on **equipmen
   [600K+ Fitness Exercise & Workout Program Dataset](https://www.kaggle.com/datasets/adnanelouardi/600k-fitness-exercise-and-workout-program-dataset)
 
 - **Cleaned Dataset (SQL Processed)**  
-  [https://drive.google.com/file/d/1xb7pdna1J8X-HFa9fMFUh8SfLvN4IAKS/view?usp=sharing]  
+  [Program_Detail_Updated](https://drive.google.com/file/d/1xb7pdna1J8X-HFa9fMFUh8SfLvN4IAKS/view?usp=sharing)
   *(SQL transformations applied: removed duplicates, handled nulls, standardized categories, created SQL views for reporting.)*
 
 - **Power BI Dashboard (.pbix)**  
