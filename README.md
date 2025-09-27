@@ -15,8 +15,9 @@ The dataset (~600k rows) includes workout programs, exercises, difficulty levels
 - Optimized queries for smooth performance on 600k+ records  
 
 ## 📊 Dashboard Preview
-![Dashboard 1](dashboard%202.png)  
-![Dashboard 2](dashboard%20preview.png)  
+![Dashboard 1](images/dashboard_preview.png)  
+![Dashboard 2](images/dashboard_2.png)  
+
 
 ## 🚀 Key Takeaways
 - Built scalable ETL pipelines (SQL + Power Query)  
